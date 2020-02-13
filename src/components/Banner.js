@@ -40,7 +40,7 @@ const Banner = () => {
 							</ul>
 							<h2 className="text-banner-h1">hot deal this week</h2>
 							<p className="text-banner-p">New Collection Up to 50% OFF</p>
-							<a class="primary-btn cta-btn" href="#">Shop now</a>
+							<a className="primary-btn cta-btn" href="https://www.techradar.com/uk/news/best-phone/5">Shop now</a>
 						</div>
 					</div>
 				</div>

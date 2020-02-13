@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import logo_transparent from '../img/logo_transparent.png'
 
 const Header = () => {

@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-const Navbar = () => {
+const Navbar = ({props}) => {
   return(
     <div className="nav">
       <nav id="navigation">
@@ -12,10 +12,10 @@ const Navbar = () => {
 						<li class="active"><a href="#">Home</a></li>
 						<li><a href="#">Hot Deals</a></li>
 						<li><a href="#">Categories</a></li>
-						<li><a href="#">Laptops</a></li>
 						<li><a href="#">Smartphones</a></li>
-						<li><a href="#">Cameras</a></li>
-						<li><a href="#">Accessories</a></li>
+						<li><a href="#">Used Phones</a></li>
+						<li><a href="#">Contact Us</a></li>
+						<li><a href="#">About</a></li>
 					</ul>
 					
 				</div>
